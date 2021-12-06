@@ -10,6 +10,7 @@ Installing Arduino Library SparkFun_LSM9DS1_Arduino_Library-master, the file hav
 
 **Step2:**
 Connect the IMU to the Arduino uno. 
+
 VCC → 3.3V
 GND → GND
 SDA → SDA/A4
