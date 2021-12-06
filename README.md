@@ -30,3 +30,4 @@ Open the Final Project.maxproj file in the Final Project folder. And set this da
 **Step5:**
 The "heading" output of the IMU can be used to control the concentration of particles now. In order to facilitate the test, the parameter adjustment can still be completed without the IMU sensor. But adding IMU sensor will have better effect.
 <img width="784" alt="Screen Shot 2021-12-06 at 4 19 35 PM" src="https://user-images.githubusercontent.com/90342967/144938302-2fa7cc37-5bae-4f06-a16c-071b103e8b04.png">
+![image](https://user-images.githubusercontent.com/90342967/144938486-95771d2f-f9d6-4c0f-bcec-782bc32b8234.png)
