@@ -22,7 +22,6 @@ Connect the IMU to the Arduino uno.
 Compile and upload the IMU.ino files in the folder IMU to Arduino Uno Rev3.
 ![image](https://user-images.githubusercontent.com/90342967/144937636-fbe87f85-c468-4f3d-952d-79e64cbae538.png)
 
-
 **Step4:**
 Open the Final Project.maxproj file in the Final Project folder. And set this data to 350000.
 ![image](https://user-images.githubusercontent.com/90342967/144937191-55c071e1-737a-4684-bb88-9886ea37651c.png)
