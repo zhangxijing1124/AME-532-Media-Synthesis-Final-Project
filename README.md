@@ -4,17 +4,19 @@ Contains all files and instructions for AME 532 Media Synthesis Final Project
 **Materials Needed:**
 1. Arduino Uno Rev3
 2. LSM9DS1(IMU)
+![image](https://user-images.githubusercontent.com/90342967/144937512-354bc7a4-fd9e-4a82-ae3a-9511319471a1.png)
+![image](https://user-images.githubusercontent.com/90342967/144937488-b33b0c44-2a60-48bd-8f9e-dd577ae8638e.png)
+
 
 **Step1:**
 Installing Arduino Library SparkFun_LSM9DS1_Arduino_Library-master, the file have more deteil of process.
 
 **Step2:**
 Connect the IMU to the Arduino uno. 
-
-*VCC → 3.3V*
-GND → GND
-SDA → SDA/A4
-SCL → SCL/A5
+1. VCC → 3.3V
+2. GND → GND
+3. SDA → SDA/A4
+4. SCL → SCL/A5
 
 **Step3:**
 Compile and upload the IMU.ino files in the folder IMU to Arduino Uno Rev3.
