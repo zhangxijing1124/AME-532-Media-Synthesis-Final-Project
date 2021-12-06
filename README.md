@@ -6,4 +6,4 @@ Materials Needed:
 2. LSM9DS1(IMU)
 
 Step1:
-* **/examples**
+**Step1:**
